@@ -4,3 +4,5 @@
 
 /HelloJenkins/.vs/HelloJenkins/v15
 /HelloJenkins/HelloJenkins/obj/Debug
+/HelloJenkins/HelloJenkins/bin
+/HelloJenkins/HelloJenkins/obj/Release
